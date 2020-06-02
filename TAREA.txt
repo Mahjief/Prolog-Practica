@@ -1,0 +1,13 @@
+1.  Realiza la suma de numeros pares de una lista.
+2.  Encontrar el maximo numero de una lista
+3.  
+         |  3x + 1, si x es impar;
+
+f(x) =|
+
+         |  x/2, si x es par
+         
+  genera lo n primeros elementos
+    
+    
+4.  Verificar si un numero es el resultado del cubo de un numero ej. 8 => 2^3=8 es cubo
